@@ -50,6 +50,8 @@ export MODE=UI
 python test-hello.py
 ```
 
+
+
 ## 📝 使用示例
 
 ### 实时语音对话
@@ -74,7 +76,8 @@ python test-vedio.py
 
 - 效果：
 
-  
+https://github.com/user-attachments/assets/5479646f-a1fc-4fec-aca3-15951fc136a0
+
 
 ### 说出特定词语后激活聊天
 
@@ -106,9 +109,9 @@ stream = Stream(
 ```
 
 - 效果：
+  https://github.com/user-attachments/assets/f62fba4a-721f-4c9f-be90-8e98a0eab041
 
   
-
 ### html代码实时语音编写
 
 - 运行`test-code/test-code.py`：
