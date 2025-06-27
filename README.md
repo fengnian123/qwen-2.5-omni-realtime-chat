@@ -122,6 +122,7 @@ python test-code/test-code.py
 
 - 效果：
 
+https://github.com/user-attachments/assets/4d46ad27-3409-49f4-96ef-c8cf2c6ee853
 
 
 ### 实时语音转录
@@ -133,3 +134,6 @@ python Whisper-Transcription/app.py
 ```
 
 - 效果：
+
+https://github.com/user-attachments/assets/2eed545f-c4c7-4668-af8b-ebd5ff31fd6e
+
