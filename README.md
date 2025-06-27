@@ -63,7 +63,11 @@ python test-voice.py
 ```
 
 - 效果：
-https://github.com/fengnian123/qwen-2.5-omni-realtime-chat/blob/main/onmi-demo/Audio%20Video%20Chat.mov
+
+
+https://github.com/user-attachments/assets/9dfbe539-d50c-4277-b3c7-68651b4d2521
+
+
 
 
 ### 实时视频对话
