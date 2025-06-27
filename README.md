@@ -1,5 +1,4 @@
 
-
 # 基于fastrtc框架调用qwen-2.5-omni-realtime实现实时语音对话、视频对话等多种功能
 
 <img style="display: block; padding-right: 5px; height: 20px;" alt="Static Badge" src="https://img.shields.io/pypi/v/fastrtc"> 
