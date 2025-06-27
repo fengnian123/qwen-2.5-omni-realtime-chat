@@ -113,7 +113,7 @@ stream = Stream(
 ```
 
 - 效果：
-  https://github.com/user-attachments/assets/f62fba4a-721f-4c9f-be90-8e98a0eab041
+https://github.com/user-attachments/assets/f62fba4a-721f-4c9f-be90-8e98a0eab041
 
   
 ### html代码实时语音编写
